@@ -1,5 +1,11 @@
 
 
+.title {
+
+  font-family: 'Amatic SC', cursive;
+
+}
+
 .footer {
     position: absolute;
     bottom: 0;
